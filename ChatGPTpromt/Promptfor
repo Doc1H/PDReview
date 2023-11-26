@@ -2,8 +2,12 @@ We used the ...
 
 PROMPT
 
+Relying on these keywords and the frequency of appearance in their respective definitions, can you identify the 3 concepts?
+The 1st one: {'abstraction': 56, 'modeling': 20, 'developing': 15, 'simulation': 15, 'debugging': 14, 'logic': 13, 'communicating': 9, 'iteration': 8, 'generalization': 6, 'recursion': 5, 'collaborating': 4, 'parallel processing': 4, 'modularization': 3, 'modelling': 3, 'remixing': 3, 'problem reduction': 3, 'logical thinking': 3, 'abstracting': 2, 'data representation': 2, 'logical structure': 2, 'design process': 2, 'pattern generalization': 2, 'software engineering': 2, 'experimenting': 1, 'iterating': 1, 'reusing': 1, 'modularizing': 1, 'constant': 1, 'encapsulation': 1, 'recursive thinking': 1, 'parallel thinking': 1, 'iterative logic': 1, 'sequential logic': 1, 'resource management': 1, 'web development': 1, 'conceptual knowledge': 1, 'data collection': 1, 'data analysis': 1, 'parallel code': 1}.
+The 2nd one: {'abstraction': 22, 'logic': 16, 'developing': 14, 'debugging': 4, 'communicating': 4, 'logical thinking': 4, 'simulation': 2, 'iteration': 2, 'collaborating': 2, 'modeling': 2, 'constant': 2, 'data representation': 2, 'sequential logic': 2, 'resource management': 2, 'software engineering': 2, 'web development': 2, 'conceptual knowledge': 2}.
+The 3rd one: {'modeling': 9, 'abstraction': 8, 'simulation': 7, 'developing': 4, 'iteration': 3, 'logic': 2, 'modularization': 2, 'recursion': 2, 'problem reduction': 2, 'parallel processing': 2, 'generalization': 1, 'modelling': 1, 'communicating': 1, 'logical thinking': 1, 'logical structure': 1, 'conceptual knowledge': 1} 
 
 
 RESULT
 
-
+https://chat.openai.com/share/f2e8a03a-8aa8-4ee9-ae0d-10cfc2321ef6
